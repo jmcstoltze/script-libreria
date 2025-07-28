@@ -1,0 +1,292 @@
+{
+  "biblioteca": {
+    "nombre": "Biblioteca Personal",
+    "descripcion": "Colección personal de literatura política, histórica y filosófica",
+    "creacion": "2025-07-25",
+    "ultimaActualizacion": "2025-07-28",
+    "libros": [
+      {
+        "id": 1,
+        "uuid": "4c388ce0-1b7e-478d-9ee5-1c43d844d0af",
+        "titulo": "El Arte de la Guerra",
+        "autor": "Tzu, Sun",
+        "otrosAutores": [],
+        "anioPublicacion": 2019,
+        "editorial": "Ediciones Promocionales",
+        "coleccion": "",
+        "genero": [
+          "Filosofía",
+          "Militar"
+        ],
+        "isbn": "978-956-334-227-7",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/arte-guerra.png",
+        "descripcion": "Tratado clásico de estrategia militar con aplicaciones en política y negocios.",
+        "paginas": 136,
+        "idioma": "Español"
+      },
+      {
+        "id": 2,
+        "uuid": "279441a1-752b-4218-a33f-5b2cf806a688",
+        "titulo": "Star Wars: Ahsoka",
+        "autor": "Johnston, E. K.",
+        "otrosAutores": [],
+        "anioPublicacion": 2018,
+        "editorial": "Editorial Planeta",
+        "coleccion": "",
+        "genero": [
+          "Ciencia Ficción"
+        ],
+        "isbn": "978-84-9173-009-5",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/ashoka.jpeg",
+        "descripcion": "Novela canónica sobre la antigua aprendiz de Anakin Skywalker.",
+        "paginas": 280,
+        "idioma": "Español"
+      },
+      {
+        "id": 3,
+        "uuid": "4b7cbb77-7428-446d-a5c4-ad11cfc8df86",
+        "titulo": "El hombre en busca de sentido",
+        "autor": "Frankl, Viktor",
+        "otrosAutores": [],
+        "anioPublicacion": 2015,
+        "editorial": "Herder",
+        "coleccion": "",
+        "genero": [
+          "Crónica",
+          "Psicología"
+        ],
+        "isbn": "978-84-254-3202-6",
+        "estado": "Agotado",
+        "portada": "assets/img/portadas/busca-sentido.jpeg",
+        "descripcion": "Estremecedor relato que narra la experiencia del autor en los campos de concentración.",
+        "paginas": 162,
+        "idioma": "Español"
+      },
+      {
+        "id": 4,
+        "uuid": "e4afb713-04b3-42cd-a22e-4a49dedb9f6d",
+        "titulo": "Harry Potter y las Reliquias de la Muerte",
+        "autor": "Rowling, J. K.",
+        "otrosAutores": [],
+        "anioPublicacion": 2020,
+        "editorial": "Salamandra",
+        "coleccion": "",
+        "genero": [
+          "Ciencia Ficción"
+        ],
+        "isbn": "978-987-800-016-9",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/harry-potter.png",
+        "descripcion": "La batalla definitiva debe comenzar: Harry tendrá que alzarse y enfrentarse a su enemigo.",
+        "paginas": 704,
+        "idioma": "Español"
+      },
+      {
+        "id": 5,
+        "uuid": "eb07b7bc-63ba-45ae-afa6-67fdf096f288",
+        "titulo": "El Hobbit",
+        "autor": "Tolkien, J. R. R.",
+        "otrosAutores": [],
+        "anioPublicacion": 2022,
+        "editorial": "Booket",
+        "coleccion": "",
+        "genero": [
+          "Fantasía"
+        ],
+        "isbn": "978-84-450-1394-6",
+        "estado": "Agotado",
+        "portada": "assets/img/portadas/hobbit.jpeg",
+        "descripcion": "Tolkien que narra la aventura de Bilbo Bolsón, un hobbit que se une a un grupo de enanos y al mago Gandalf en una búsqueda para recuperar un tesoro de manos del dragón Smaug.",
+        "paginas": 288,
+        "idioma": "Español"
+      },
+      {
+        "id": 6,
+        "uuid": "7b4a5841-0c84-4dbe-be27-5f87df10b7f4",
+        "titulo": "La Ilíada",
+        "autor": "Homero",
+        "otrosAutores": [],
+        "anioPublicacion": 2016,
+        "editorial": "Biblok",
+        "coleccion": "",
+        "genero": [
+          "Literatura Clásica"
+        ],
+        "isbn": "978-84-947458-6-7",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/iliada.jpeg",
+        "descripcion": "El relato nos sitúa ante las murallas de Troya, la ciudad que tras nueve años de lucha resiste con éxito el asedio de los guerreros aqueos comandados por Agamenón.",
+        "paginas": 564,
+        "idioma": "Español"
+      },
+      {
+        "id": 7,
+        "uuid": "5beec3dd-5692-4b64-9598-f66d8f67dbf0",
+        "titulo": "Desolación",
+        "autor": "Donoso, José",
+        "otrosAutores": [],
+        "anioPublicacion": 2016,
+        "editorial": "Rústica",
+        "coleccion": "",
+        "genero": [
+          "Novela Chilena"
+        ],
+        "isbn": "978-956-958-377-3",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/desolacion.jpeg",
+        "descripcion": "En esta obra, el lector despierta a una realidad grosera, donde los personajes desnudan sus recuerdos y la historia de algunas rancias familias santiaguinas.",
+        "paginas": 256,
+        "idioma": "Español"
+      },
+      {
+        "id": 8,
+        "uuid": "1f252998-648e-4f55-ada2-6e2337730f2b",
+        "titulo": "Kafka en la orilla",
+        "autor": "Murakami, Haruki",
+        "otrosAutores": [],
+        "anioPublicacion": 2021,
+        "editorial": "Tusquets",
+        "coleccion": "",
+        "genero": [
+          "Novela literaria"
+        ],
+        "isbn": "978-84-8383-524-1",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/kafka-orilla.jpeg",
+        "descripcion": "Las vidas y destinos de los personajes se van entretejiendo en un curso inexorable que no atiende a razones ni voluntades.",
+        "paginas": 720,
+        "idioma": "Español"
+      },
+      {
+        "id": 9,
+        "uuid": "cfe1420e-dd05-4a1c-afdc-d62093e2f7b8",
+        "titulo": "El Extranjero",
+        "autor": "Camus, Albert",
+        "otrosAutores": [],
+        "anioPublicacion": 2021,
+        "editorial": "Emecé Editores",
+        "coleccion": "",
+        "genero": [
+          "Novela literaria"
+        ],
+        "isbn": "978-956-9978-65-4",
+        "estado": "Agotado",
+        "portada": "assets/img/portadas/extranjero.jpeg",
+        "descripcion": "En es­tas pá­gi­nas ma­gis­tra­les el rea­lis­mo lo­gra la per­fec­ción: Meur­sault nos refie­re su his­to­ria, no la de sus ra­zo­nes y sen­ti­mien­tos, si­no la de su im­po­si­ble des­ti­no.",
+        "paginas": 160,
+        "idioma": "Español"
+      },
+      {
+        "id": 10,
+        "uuid": "78f4b127-b51b-4f0d-927b-6c79c89c3db7",
+        "titulo": "Pedro Páramo",
+        "autor": "Rulfo, Juan",
+        "otrosAutores": [],
+        "anioPublicacion": 2019,
+        "editorial": "Vintage Espanol",
+        "coleccion": "",
+        "genero": [
+          "Ficción",
+          "Realismo Mágico"
+        ],
+        "isbn": "978-052-5566-52-6",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/pedro-paramo.jpeg",
+        "descripcion": "El narrador, JuanPreciado, llega a un pueblo deshabitado pero lleno de susurros, y a través de estos conoce la destrucción que trajo la convulsa pasión de Pedro Páramo hacia Susana San Juan.",
+        "paginas": 144,
+        "idioma": "Español"
+      },
+      {
+        "id": 11,
+        "uuid": "3ef44378-ed2a-42d7-a228-7dcad48420a9",
+        "titulo": "Los Detectives Salvajes",
+        "autor": "Bolaño, Roberto",
+        "otrosAutores": [],
+        "anioPublicacion": 1999,
+        "editorial": "Círculo De Lectores",
+        "coleccion": "",
+        "genero": [
+          "Novela Chilena"
+        ],
+        "isbn": "",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/detectives-salvajes.jpeg",
+        "descripcion": "Dos jóvenes poetas latinoamericanos, Arturo Belano y Ulises Lima, emprenden una aventura que transcurrirá durante varias décadas y cruzará distintos países.",
+        "paginas": 617,
+        "idioma": "Español"
+      },
+      {
+        "id": 12,
+        "uuid": "5771caa1-ce11-4737-811c-bc2078c1285b",
+        "titulo": "Crimen y Castigo",
+        "autor": "Dostoyevski, Fiódor",
+        "otrosAutores": [],
+        "anioPublicacion": 2012,
+        "editorial": "Biblok",
+        "coleccion": "",
+        "genero": [
+          "Novela Rusa"
+        ],
+        "isbn": "978-84-947738-6-0",
+        "estado": "Agotado",
+        "portada": "assets/img/portadas/crimen-castigo.jpeg",
+        "descripcion": "En Crimen y castigo el joven estudiante Raskólnikov decide escenificar su nihilismo y hacer de paso un favor a la sociedad asesinando a una vieja usurera, un «parásito» según sus propias palabras.",
+        "paginas": 522,
+        "idioma": "Español"
+      }
+    ],
+    "metadata": {
+      "totalLibros": 12,
+      "totalPaginas": 4553,
+      "decadas": {
+        "1990s": 1,
+        "2010s": 7,
+        "2020s": 4
+      },
+      "estadisticas": {
+        "porGenero": {
+          "Ciencia Ficción": 2,
+          "Crónica": 1,
+          "Fantasía": 1,
+          "Ficción": 1,
+          "Filosofía": 1,
+          "Literatura Clásica": 1,
+          "Militar": 1,
+          "Novela Chilena": 2,
+          "Novela Rusa": 1,
+          "Novela literaria": 2,
+          "Psicología": 1,
+          "Realismo Mágico": 1
+        },
+        "porEditorial": {
+          "Biblok": 2,
+          "Ediciones Promocionales": 1,
+          "Editorial Planeta": 1,
+          "Herder": 1,
+          "Salamandra": 1,
+          "Booket": 1,
+          "Rústica": 1,
+          "Tusquets": 1,
+          "Emecé Editores": 1,
+          "Vintage Espanol": 1,
+          "Círculo De Lectores": 1
+        },
+        "porEstado": {
+          "Agotado": 4,
+          "Disponible": 8,
+          "Leído": 0,
+          "Prestado": 0
+        },
+        "porIdioma": {
+          "Español": 12
+        },
+        "sistemasIdentificacion": {
+          "conISBN": 11,
+          "sinISBN": 1
+        }
+      }
+    }
+  }
+}

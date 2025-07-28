@@ -1,0 +1,30 @@
+# Entorno virtual de Python (venv)
+venv/
+.env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.xlsx
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Variantes comunes en Windows y otros sistemas
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
