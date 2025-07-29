@@ -6,12 +6,15 @@
   
   ## 🖥️ Vista Desktop
   <img src="screenshots/large-screen.png" alt="Vista escritorio" width="80%">
+  <br>
+  <hr>
   
-  ## 📱 Vistas Móvil y Tablet
+  ## 📱 Vistas Móvil | Tablet
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <img src="screenshots/pantalla-small.jpg" alt="Vista móvil" width="30%">
     <img src="screenshots/pantalla-small1.jpg" alt="Vista móvil 2" width="30%">
+    <br><hr><br>
     <img src="screenshots/pantalla-small2.jpg" alt="Vista móvil 3" width="30%">
     <img src="screenshots/pantalla-mediana1.jpg" alt="Vista tablet 1" width="45%">
     <img src="screenshots/pantalla-mediana2.jpg" alt="Vista tablet 2" width="45%">
@@ -26,7 +29,7 @@
 | Área       | Tecnologías                 |
 |------------|-----------------------------|
 | **Backend**  | Python 3, Pandas            |
-| **Frontend** | HTML5, CSS3, JavaScript ES6 |
+| **Frontend** | HTML5, CSS3, JavaScript     |
 | **Herramientas** | Git, GitHub Pages       |
 | **Formato**  | Excel, JSON                 |
 
@@ -55,7 +58,7 @@
     └── excel_to_json.py        # Conversion script
 ```
 
-### 2. El corazón del proyecto: `script.py`  
+### 2. Corazón del proyecto: `script.py`  
 El script convierte los datos de Excel a JSON con **Pandas**, limpiando y formateando la información.
 
 <div align="center">
@@ -96,4 +99,4 @@ pip install -r requirements.txt
 ```bash
 python3 scripts/excel_to_json.py
 ```
-5. Ejecutar el index.html con Live Server o similar
+5. Ejecutar el index.html (Recomendado con Live Server)
