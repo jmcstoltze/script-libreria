@@ -14,8 +14,8 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <img src="screenshots/pantalla-small.jpg" alt="Vista móvil" width="30%">
     <img src="screenshots/pantalla-small1.jpg" alt="Vista móvil 2" width="30%">
-    <br><hr><br>
     <img src="screenshots/pantalla-small2.jpg" alt="Vista móvil 3" width="30%">
+    <br><hr><br>
     <img src="screenshots/pantalla-mediana1.jpg" alt="Vista tablet 1" width="45%">
     <img src="screenshots/pantalla-mediana2.jpg" alt="Vista tablet 2" width="45%">
   </div>
@@ -67,7 +67,7 @@ El script convierte los datos de Excel a JSON con **Pandas**, limpiando y format
   
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <div>
-      <img src="screenshots/script-py1.png" alt="Parte 1 del script" width="100%">
+      <img src="screenshots/script-py1.png" alt="Parte 1 del script" width="60%">
       <p><em>Imports y funciones</em></p>
     </div>
     <div>
